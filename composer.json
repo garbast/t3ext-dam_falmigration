@@ -1,0 +1,12 @@
+{
+	"name": "b13/dam-falmigration",
+	"description": "CP Videos",
+	"license": "GPL-2.0-or-later",
+	"type": "typo3-cms-extension",
+	"version": "1.0.0",
+	"autoload": {
+		"psr-4": {
+			"B13\\DamFalmigration\\": "Classes/"
+		}
+	}
+}
